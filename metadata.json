@@ -1,0 +1,6 @@
+{
+  "name": "Maison Du Café - Luxury Coffee Lounge",
+  "description": "World-class luxury café experience featuring handcrafted artisanal coffees, gourmet breakfast, interactive online ordering, table reservations, and immersive digital branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
